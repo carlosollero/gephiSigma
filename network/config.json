@@ -14,17 +14,17 @@
   },
   "legend": {
     "edgeLabel": "dos",
-    "colorLabel": "red",
+    "colorLabel": "",
     "nodeLabel": "uno"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Label",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
